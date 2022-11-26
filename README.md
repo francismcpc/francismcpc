@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT & FRAMEWORKS**
 
-- 👨‍💻 All of my projects are available at [Currently Developing Some Projects](Currently Developing Some Projects)
+- 👨‍💻 All of my projects are available at (Currently Developing Some Projects)
 
 - 💬 Ask me about **Basic Fundamentals**
 
