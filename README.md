@@ -32,9 +32,3 @@
  </p>
   
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francismcpc&show_icons=true&locale=en&layout=compact" alt="francismcpc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francismcpc&show_icons=true&locale=en" alt="francismcpc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francismcpc&" alt="francismcpc" /></p>
-
