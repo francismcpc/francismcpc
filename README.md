@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/francismcpc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="francismcpc" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/francismcpc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="francis macaspac" height="30" width="40" /></a>
+
+
 <a href="https://www.linkedin.com/in/francis-macaspac-1bbb5924b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francis macaspac" height="30" width="40" /></a>
 <a href="https://www.facebook.com/francis.macaspac.545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="francis bajalla macaspac" height="30" width="40" /></a>
 <a href="https://instagram.com/iampangks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iampangks" height="30" width="40" /></a>
