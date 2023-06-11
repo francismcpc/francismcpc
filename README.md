@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT & FRAMEWORKS**
 
-- 📫 How to reach me **francismacaspac15@gmail.com**
+- 📫 How to reach me **francismacaspac.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
