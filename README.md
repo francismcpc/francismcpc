@@ -3,7 +3,8 @@
 <h3>I'm a frontend developer who enjoys building projects with React, Tailwind CSS, and Framer Motion. I'm also interested in web design and use Figma to create stunning user interfaces. I believe that combining technology and thoughtful design creates exceptional user experiences. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francismcpc&label=Profile%20views&color=0e75b6&style=flat" alt="francismcpc" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT & FRAMEWORKS**
+- 🌱 I’m currently building projects with **HTML, CSS, SASS**
+- 🌱 I’m currently Learning  **JabaScript**
 
 - 📫 How to reach me **francismacaspac.work@gmail.com**
 
