@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francismcpc&label=Profile%20views&color=0e75b6&style=flat" alt="francismcpc" /> </p>
 
 - 🌱 I’m currently building projects with **HTML, CSS, SASS**
-- 🌱 I’m currently Learning  **JabaScript**
+- 🌱 I’m currently Learning  **JavaScript**
 
 - 📫 How to reach me **francismacaspac.work@gmail.com**
 
