@@ -1,12 +1,11 @@
 ![MasterHead](https://i.pinimg.com/originals/9f/f6/08/9ff6086bda00f7c3a3860018ada700bf.gif)
-<h1>Hi 👋, I'm Francis Macaspac</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francismcpc&label=Profile%20views&color=0e75b6&style=flat" alt="francismcpc" /> </p>
 
 - 🌱 I’m currently building projects with **HTML, CSS, SASS**
 - 🌱 I’m currently Learning  **JavaScript**
 
-- 📫 How to reach me **francismacaspac.work@gmail.com**
+- 📫 How to reach me **francismacaspac15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
