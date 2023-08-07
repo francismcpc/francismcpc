@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Francis Macaspac</h1>
-<h3 align="center">I love building websites 🚀</h3>
+<h3 align="left">I love building websites 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francismcpc&label=Profile%20views&color=0e75b6&style=flat" alt="francismcpc" /> </p>
-<img align="right" alt="coding" width="400 src="![profile](https://github.com/francismcpc/francismcpc/assets/119109562/339daab4-7cc6-45d6-b993-375aa3eeee33)">
+<img align="right" alt="coding" width="400" src="https://icons8.com/illustrations/illustration/casual-life-3d-man-working-on-laptop-and-drinking-coffee">
 
 - 🔭 I’m currently working on **portfolio projects**
 
