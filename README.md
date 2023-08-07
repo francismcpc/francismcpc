@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Francis Macaspac</h1>
-<h3 align="left>I love building websites 🚀. It may seem weird, but I have a love-hate relationship with with pineapple on pizza—I sometimes eat it 🍍🍕 and sometimes don't.</h3>
+<h3 align="left">I love building websites 🚀. It may seem weird, but I have a love-hate relationship with with pineapple on pizza—I sometimes eat it 🍍🍕 and sometimes don't.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francismcpc&label=Profile%20views&color=0e75b6&style=flat" alt="francismcpc" /> </p>
 <img align="right" alt="coding" width="400 src="![profile](https://github.com/francismcpc/francismcpc/assets/119109562/339daab4-7cc6-45d6-b993-375aa3eeee33)">
