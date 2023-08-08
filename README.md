@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Francis Macaspac</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francismcpc&label=Profile%20views&color=0e75b6&style=flat" alt="francismcpc" /> </p>
-<img align="right" alt="coding" width="300" src="https://github.com/francismcpc/francismcpc/assets/119109562/db305c52-c84d-4708-8d62-e170fbdf8eb1">
 
 - 🔭 I’m currently working on **portfolio projects**
 
