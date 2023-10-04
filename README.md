@@ -6,15 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript & React**
 
-- 👨‍💻 All of my projects are available at [https://dev.to/frncmcpc](https://dev.to/frncmcpc)
-
-- 📝 I regularly write articles on [https://dev.to/frncmcpc](https://dev.to/frncmcpc)
-
 - 📫 How to reach me **francismacaspac15@gmail.com**
-
-- 📄 Know about my experiences [https://dev.to/frncmcpc](https://dev.to/frncmcpc)
-
-- ⚡ Fun fact **I think I am funny**
 
 <p align="left">
 </p>
